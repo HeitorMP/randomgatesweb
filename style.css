@@ -52,7 +52,7 @@ h3 {
 	padding: 6rem;
 	justify-content: space-evenly;
 	align-items: center;
-	flex-wrap: wrap;
+	flex: auto;
 }
 
 .img-container {
@@ -134,11 +134,11 @@ img:hover {
 .clear {
 	/* margin-top: 2rem; */
 }
-/* 
+
 #mc_embed_signup form {
 	padding: 2rem !important;
 }
 
 #mc_embed_signup input.email {
 	width: 350px !important;
-} */
+}
