@@ -27,13 +27,14 @@ body {
 	width: 100%;
 	padding: 4rem 0;
 	text-align: center;
+	height: 20rem;
 }
 
 h1 {
 	color: rgb(199, 55, 55);
 	font-size: 5rem;
-	margin-top: 0;
-	margin-bottom: 1rem;
+	margin-top: 5rem;
+	margin-bottom: 2rem;
 }
 
 h3 {
@@ -43,7 +44,7 @@ h3 {
 }
 
 .img-gallery {
-	height: 100vh;
+	height: 55rem;
 	text-align: center;
 	line-height: 100px;
 	background-color: white;
@@ -101,6 +102,7 @@ img:hover {
 
 .title {
 	margin-top: 5rem;
+	margin-bottom: 2rem;
 	font-size: 2rem;
 	color: white;
 	text-align: center;
@@ -132,11 +134,11 @@ img:hover {
 .clear {
 	/* margin-top: 2rem; */
 }
-
+/* 
 #mc_embed_signup form {
 	padding: 2rem !important;
 }
 
 #mc_embed_signup input.email {
 	width: 350px !important;
-}
+} */
